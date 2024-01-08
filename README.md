@@ -1,3 +1,4 @@
+![logo](https://github.com/alirizvi19/Syed-Ali-Ammar-Rizvi/blob/main/banner_developer-.jpg)
 <h1 align="center">Hi 👋, I'm Syed Ali Ammar Rizvi</h1>
 <h3 align="center">A passionate Associate Software Engineer from India</h3>
 
